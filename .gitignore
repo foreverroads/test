@@ -11,6 +11,11 @@
 # generated files
 bin/
 gen/
+README.md/
 
 # Local configuration file (sdk path, etc)
 local.properties
+#ignore file
+/README.md
+/libs
+
